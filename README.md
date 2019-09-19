@@ -6,7 +6,11 @@ Originaly writen to use on Windows due to terminal **clearing and coloring comma
 
 ## How to run ##
 
-no extra dependencies needed.
+install dependensies:
+
+```
+pip install -r requirements.txt
+```
 
 run:
 
